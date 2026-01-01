@@ -1,0 +1,6 @@
+Add configuration of the light brightness and warmth.
+Finish get command to get state of devices.
+Finish debug flag for providing information.
+Remove logging on standard execution.
+Parse config.json for Elgato device information.
+Add discovery of Elgato devices on the network.
